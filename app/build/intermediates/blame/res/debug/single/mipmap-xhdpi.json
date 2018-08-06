@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\Buoi12\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\Android\\Buoi12\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\download\\Android\\Buoi12\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\download\\Android\\Buoi12\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Buoi12\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\Buoi12\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
